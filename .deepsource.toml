@@ -5,8 +5,4 @@ name = "rust"
 enabled = true
 
   [analyzers.meta]
-  msrv = "1.30.0"
-
-[[transformers]]
-name = "rustfmt"
-enabled = true
+  msrv = "1.56.0"
